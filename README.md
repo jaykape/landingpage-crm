@@ -4,7 +4,7 @@ A simple project designed to collect leads from a static landing page, store the
 
 ---
 
-## 🧱 Main Components
+## :factory: Main Components
 
 - **Static Landing Page**
   - Hosted on S3
@@ -21,14 +21,12 @@ A simple project designed to collect leads from a static landing page, store the
 
 ---
 
-## 🗺️ Current Status
+## :hammer: Current Status
 
 - [x] Initial infrastructure with Terraform (S3, RDS, Lambda, API Gateway)
 - [x] HTML form and API connection
 - [ ] CRM Web UI with role-based access control
 
 ---
-
-## 💬 Questions or Contributions?
 
 Feel free to open issues or submit PRs. Suggestions welcome!
