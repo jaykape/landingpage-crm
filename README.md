@@ -25,6 +25,7 @@ A simple project designed to collect leads from a static landing page, store the
 
 - [x] Initial infrastructure with Terraform (S3, RDS, Lambda, API Gateway)
 - [x] HTML form and API connection
+- [ ] Database (PostgreSQL)
 - [ ] CRM Web UI with role-based access control
 
 ---
